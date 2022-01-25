@@ -1,0 +1,21 @@
+.paragraph {
+    display: block;
+    border: 3px solid blue;
+    padding: 20px;
+}
+
+.list-container {
+    display: flex;
+    border: 3px solid red;
+    padding: 20px;
+}
+
+.list-element {
+    border: 3px solid green;
+}
+
+.span {
+    display: block;
+    border: 3px solid blue;
+    padding: 20px;
+}
